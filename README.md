@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjan-in
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning MEAN and MERN.
 - 📫 How to reach me ...
 
 <!---
