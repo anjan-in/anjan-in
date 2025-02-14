@@ -6,7 +6,8 @@
 </p>
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47th35v7t30upjfma9mj3b0a9awsx4v49g2jmxrpvp&ep=v1_gifs_related&rid=200.webp&ct=g">
+<!--   <img alt="coding" width="400" src="https://media0.giphy.com/media/G3vpyZ47YD824yuOB0/giphy.webp?cid=ecf05e47jkw9x1l2gwvs740urewmk3ucaeprltx1lltosqxh&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
 </div>
 
 ---
