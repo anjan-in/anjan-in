@@ -6,19 +6,28 @@
 </p>
 
 <div align="center">
-<img alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47th35v7t30upjfma9mj3b0a9awsx4v49g2jmxrpvp&ep=v1_gifs_related&rid=200.webp&ct=g">
-<!--   <img alt="coding" width="400" src="https://media0.giphy.com/media/G3vpyZ47YD824yuOB0/giphy.webp?cid=ecf05e47jkw9x1l2gwvs740urewmk3ucaeprltx1lltosqxh&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
+  <table style="border:none;">
+    <tr>
+      <!-- About Me -->
+      <td style="vertical-align: top; padding-left: 20px;">
+        <h2>🚀 About Me:</h2>
+        <ul>
+          <li>🎨 Passionate Frontend Developer from India</li>
+          <li>💼 Currently working at <strong>Cyber Waves B V</strong></li>
+          <li>🛠 Proficient in <strong>Angular, React, TypeScript, Node JS, Ionic, JavaScript, HTML, CSS, PHP, MySQL, Figma, Photoshop, AWS, Bootstrap, Tailwind CSS</strong></li>
+          <li>🌱 Constantly learning and evolving in the tech world</li>
+          <li>💬 Ask me about <strong>HTML, CSS, JavaScript, Angular, and UI/UX Design</strong></li>
+          <li>⚡ Fun fact: <strong>I believe in clean and maintainable code</strong></li>
+        </ul>
+      </td>
+      <!-- Animated Image -->
+      <td>
+        <img alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47th35v7t30upjfma9mj3b0a9awsx4v49g2jmxrpvp&ep=v1_gifs_related&rid=200.webp&ct=g">
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-### 🚀 About Me:
-- 🎨 Passionate Frontend Developer from India
-- 💼 Currently working at **Cyber Waves B V**
-- 🛠 Proficient in **Angular, React, TypeScript, Node JS, Ionic, Android Studio, JavaScript, HTML, CSS, MySQL, PHP, Figma, Photoshop, AWS, Bootstrap, Tailwind CSS**
-- 🌱 Constantly learning and evolving in the tech world
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, and UI/UX Design**
-- ⚡ Fun fact: **I believe in clean and maintainable code**
 
 ---
 
