@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjan Sen</h1>
-<h3 align="center">Frontend Developer @ Cyber Waves B V</h3>
+<h3 align="center">Frontend & UI/UX Developer @ Cyber Waves B V</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjan-in&label=PROFILE+VIEWS&color=blueviolet" alt="Profile Views" />
