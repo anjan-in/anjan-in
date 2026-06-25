@@ -99,8 +99,22 @@ I'm a frontend developer from India who obsesses over clean interfaces and maint
 
 ### 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjan-in&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" alt="Trophies" />
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=anjan-in&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" alt="Trophies" />
+  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+  <img src="https://github-profile-trophy.vercel.app/?username=anjan-in&theme=juicyfresh&no-bg=true" alt="Trophies" />
+  -->
+  <img src="https://github-trophies.vercel.app/?username=anjan-in&theme=juicyfresh&no-bg=true&no-frame=true&column=6&margin-w=8" alt="Trophies" />
 </div>
+
+---
+
+### 🏆 GitHub Achievements
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-0969DA?style=flat-square&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-6F42C1?style=flat-square&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-E3B341?style=flat-square&logo=github&logoColor=white)
+![Starstruck](https://img.shields.io/badge/Starstruck-FFD700?style=flat-square&logo=github&logoColor=white)
+
 ---
 
 ## 📈 Contribution Graph
