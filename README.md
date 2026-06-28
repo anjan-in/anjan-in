@@ -2,7 +2,12 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Anjan Sen</h1>
-<h3>Frontend & UI/UX Developer · Nexval Infotech Pvt. Ltd · India</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Frontend%20Developer%3BUI/UX%20Developer%3BOpen%20Source%20Enthusiast%3BTech%20Blogger" alt="Typing SVG" />
+</div>
+
+<h3>Nexval Infotech Pvt. Ltd · India</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anjan-in&label=Profile+Views&color=534AB7&style=flat-square)](https://github.com/anjan-in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjan-sen-88189b138)
@@ -129,7 +134,7 @@ I'm a frontend developer from India who obsesses over clean interfaces and maint
 
 ## 🔗 Connect with me
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjan-sen-88189b138)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anjan_sen1994)
@@ -142,5 +147,5 @@ I'm a frontend developer from India who obsesses over clean interfaces and maint
 ---
 
 <div align="center">
-  <sub>Made with intention · <a href="https://github.com/anjan-in">anjan-in</a> · 2025</sub>
+  <sub>Made with intention &#10084; · 2026</sub>
 </div>
