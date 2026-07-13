@@ -89,9 +89,9 @@ I'm a frontend developer from India who obsesses over clean interfaces and maint
 
 ### 📊 GitHub Stats:
 <div>
-<img src="https://github-profile-maker.vercel.app/api/stats?username=anjan-in&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" height="165" style="margin-right: 12px;" />
+<img src="https://github-profile-maker.vercel.app/api/stats?username=anjan-in&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="165" style="margin-right: 12px;" />
 &nbsp;
-<img src="https://github-profile-maker.vercel.app/api/top-langs?username=anjan-in&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" height="165" style="" />
+<img src="https://github-profile-maker.vercel.app/api/top-langs?username=anjan-in&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="165" style="" />
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=anjan-in&show_icons=true&theme=github_dark&hide_border=true&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Anjan's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjan-in&layout=compact&theme=github_dark&hide_border=true&title_color=7F77DD&text_color=c9d1d9&bg_color=0d1117" height="165" alt="Top Languages" />
