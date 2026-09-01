@@ -124,11 +124,11 @@ I'm a frontend developer from India who obsesses over clean interfaces and maint
 
 ---
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph-->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjan-in&bg_color=0d1117&color=7F77DD&line=1D9E75&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-profile-maker.vercel.app/api/activity?username=anjan-in&bg_color=0d1117&color=7F77DD&line=1D9E75&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
